@@ -1,0 +1,12 @@
+{
+  "frontend/app/index.tsx": {
+    "file": "sad-frontend.umd.cjs",
+    "name": "index",
+    "src": "frontend/app/index.tsx",
+    "isEntry": true
+  },
+  "style.css": {
+    "file": "style.css",
+    "src": "style.css"
+  }
+}
